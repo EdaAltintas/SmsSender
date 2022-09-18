@@ -1,0 +1,24 @@
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/bin/Debug/net5.0/Models.deps.json
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/bin/Debug/net5.0/Models.dll
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/bin/Debug/net5.0/Models.pdb
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/Models.csproj.AssemblyReference.cache
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/Models.AssemblyInfoInputs.cache
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/Models.AssemblyInfo.cs
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/Models.csproj.CoreCompileInputs.cache
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/Models.dll
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/ref/Models.dll
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/Models.pdb
+/Users/edaaltintas/Projects/TicimaxCaseStudy/Models/obj/Debug/net5.0/refint/Models.dll
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\bin\Debug\net5.0\Models.deps.json
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\bin\Debug\net5.0\Models.dll
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\bin\Debug\net5.0\ref\Models.dll
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\bin\Debug\net5.0\Models.pdb
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\obj\Debug\net5.0\Models.csproj.AssemblyReference.cache
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\obj\Debug\net5.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\obj\Debug\net5.0\Models.AssemblyInfoInputs.cache
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\obj\Debug\net5.0\Models.AssemblyInfo.cs
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\obj\Debug\net5.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\obj\Debug\net5.0\Models.dll
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\obj\Debug\net5.0\ref\Models.dll
+C:\Users\Online\Desktop\Yeni klasör\TicimaxCaseStudy\Models\obj\Debug\net5.0\Models.pdb

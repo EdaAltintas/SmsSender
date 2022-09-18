@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\SmsSender\\SmsSender.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Online\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Online\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Online\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Online\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\SmsSender\\SmsSender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\SmsSender\\SmsSender.csproj",
+        "projectName": "SmsSender",
+        "projectPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\SmsSender\\SmsSender.csproj",
+        "packagesPath": "C:\\Users\\Online\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\SmsSender\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Online\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\TicimaxCaseStudy\\Business.csproj": {
+                "projectPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\TicimaxCaseStudy\\Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\TicimaxCaseStudy\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\TicimaxCaseStudy\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\TicimaxCaseStudy\\Business.csproj",
+        "packagesPath": "C:\\Users\\Online\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\TicimaxCaseStudy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Online\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Online\\Desktop\\Yeni klasör\\TicimaxCaseStudy\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
